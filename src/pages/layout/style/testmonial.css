@@ -1,0 +1,23 @@
+
+#testimonial {
+    margin: 100px 0;
+}
+.testimonial {
+    border-left: 4px solid #7b1798;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.testimonial img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.user-title {
+    font-size: 14px;
+    letter-spacing: 0.3px;
+}
+.user-details {
+    display: inline-block;
+    font-size: 12px;
+}

@@ -1,0 +1,18 @@
+
+#social {
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social p {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons img {
+    width: 60px;
+    transition: 0.5s;
+    margin: 0 5px;
+}
+.social-icons a:hover img {
+    transform: translateY(-10px);
+}

@@ -1,0 +1,44 @@
+
+#footer {
+    background: linear-gradient(to right, #a517ba, #5f1782);
+    color: white;
+}
+.footer-img {
+    width: 100%;
+}
+.footer-box {
+    padding: 20px;
+}
+.footer-box img {
+    width: 120px;
+    margin-bottom: 20px;
+}
+.footer-box p {
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 23px;
+}
+.footer-box .form-control {
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+.footer-box .btn-primary {
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 30px;
+    background: linear-gradient(to right, #a517ba, #5f1782);
+}
+hr {
+    background: white;
+}
+.copyright {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
